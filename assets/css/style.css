@@ -1,0 +1,61 @@
+.our-team {
+  text-align: center;
+}
+.container {
+  margin: auto;
+  max-width: 1200px;
+}
+.our-team__subtitle {
+  font-family: "Kaushan Script";
+  font-size: 24px;
+  color: #333333;
+}
+.our-team__title {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 37px;
+  font-variant: small-caps;
+  color: #333333;
+  padding-top: 20px;
+}
+.line {
+  width: 60px;
+  height: 4px;
+  background: #f38181;
+  margin: 45px auto;
+}
+.our-team__text {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #b6b6b6;
+  padding-bottom: 30px;
+}
+.our-team__img-box {
+  display: flex;
+  justify-content: space-between;
+}
+.our-team__img {
+}
+.our-team__pictures {
+}
+.our-team__full-name {
+  display: block;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  font-variant: small-caps;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.our-team__work {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  color: #b6b6b6;
+}
